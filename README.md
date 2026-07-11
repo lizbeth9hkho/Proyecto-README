@@ -45,12 +45,11 @@ code .
 
 Ejemplo utilizando Git.
 
-```bash
 git status
 git add .
 git commit -m "Primer commit"
 git push
-```
+
 
 También puedes abrir el proyecto directamente desde Visual Studio Code.
 
