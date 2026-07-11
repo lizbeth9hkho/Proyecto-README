@@ -24,8 +24,7 @@ Para ejecutar este proyecto es necesario contar con:
 
 Sigue estos pasos para utilizar el proyecto.
 
-## 1. Clonar el repositorio
- https://github.com/brendalizbeth/Proyecto-README.git
+https://github.com/brendalizbeth/Proyecto-README.git
 
 ## 2. Entrar a la carpeta
 
